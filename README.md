@@ -24,4 +24,8 @@ The aim of this projet is to :
 * In order to create or use ER tools, we need to setup a dictionary of gene/protein entities
 * a first file named pub_dictionnary.txt was created from the Oryzabase gene dataset 
   * https://shigen.nig.ac.jp/rice/oryzabase/download/gene.
-  * it contains a label/gene name/symbol/synonysm [TAB] Oryzabase database URI
+  * it contains a label/gene name/symbol/synonyms [TAB] Oryzabase database URI
+* a second pub_dictionnary_with_rapdb_URI.txt was created from the same dataset
+  * it contains a label/gene name/symbol/synonyms [TAB] RAP-DB database URI
+* a third pub_dictionnary_with_msu.txt was created from the same dataset
+  * it contains a label/gene name/symbol/synonyms [TAB] MSU database URI
