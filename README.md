@@ -14,6 +14,6 @@ The aim of this projet is to :
 
 ### Step one updating OryzaGP with new pubmed entries
 
-- Downloaded Oryza reference dataset from Oryzabase database https://shigen.nig.ac.jp/rice/oryzabase/
+- Downloaded Oryza reference dataset from Oryzabase database https://shigen.nig.ac.jp/rice/oryzabase/.
 Oryzabase provides manually curated dataset for new rice related pubmed entries 
 
