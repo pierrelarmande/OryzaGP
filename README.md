@@ -22,5 +22,6 @@ Oryzabase provides manually curated dataset for new rice related pubmed entries
 ### Step two: creating a new pub dictionnary 
 
 * In order to create or use ER tools, we need to setup a dictionary of gene/protein entities
-* a first file named pub_dictionnary.txt was created from the Oryzabase gene dataset https://shigen.nig.ac.jp/rice/oryzabase/download/gene.
+* a first file named pub_dictionnary.txt was created from the Oryzabase gene dataset 
+  * https://shigen.nig.ac.jp/rice/oryzabase/download/gene.
   * it contains a label/gene name/symbol/synonysm [TAB] Oryzabase database URI
