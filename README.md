@@ -17,3 +17,4 @@ The aim of this projet is to :
 - Downloaded Oryza reference dataset from Oryzabase database https://shigen.nig.ac.jp/rice/oryzabase/.
 Oryzabase provides manually curated dataset for new rice related pubmed entries 
 - A list of pubmedid have been created and uploaded on http://pubannotation.org/projects/OryzaGP_2021
+- Corresponding abstracts have been retrieved
