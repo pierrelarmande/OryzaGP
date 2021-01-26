@@ -12,14 +12,14 @@ The aim of this projet is to :
 * update the datasets with new pubmed entries
 * process annotation on gene/protein entities
 
-### Step one: updating OryzaGP with new pubmed entries
+### Step 1: updating OryzaGP with new pubmed entries
 
 * Downloaded Oryza reference dataset from Oryzabase database https://shigen.nig.ac.jp/rice/oryzabase/.
   * Oryzabase provides manually curated dataset for new rice related pubmed entries 
 * A list of pubmedid have been created and uploaded on http://pubannotation.org/projects/OryzaGP_2021
 * Corresponding abstracts have been retrieved
 
-### Step two: creating a new pub dictionnary 
+### Step 2: creating a new pub dictionnary 
 
 * In order to create or use ER tools, we need to setup a dictionary of gene/protein entities
 * a first file named pub_dictionnary.txt was created from the Oryzabase gene dataset 
@@ -29,3 +29,6 @@ The aim of this projet is to :
   * it contains a label/gene name/symbol/synonyms [TAB] RAP-DB database URI
 * a third pub_dictionnary_with_msu.txt was created from the same dataset
   * it contains a label/gene name/symbol/synonyms [TAB] MSU database URI
+
+### Step 3: creating PubDictionary Annotators
+* we created 2 annotators for each pub dictionary ( single and batch mode)
