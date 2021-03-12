@@ -8,7 +8,7 @@ http://pubannotation.org/projects/OryzaGP
 
 ## citation
 Please cite with the following reference: 
-Pierre Larmande, Huy Do, Yue Wang. OryzaGP: rice gene and protein dataset for named-entity recognition. Genomics Inform. 2019;17(2):e17. DOI: https://doi.org/10.5808/GI.2019.17.2.e17
+* Pierre Larmande, Huy Do, Yue Wang. OryzaGP: rice gene and protein dataset for named-entity recognition. Genomics Inform. 2019;17(2):e17. DOI: https://doi.org/10.5808/GI.2019.17.2.e17
 
 ## Updating OryzaGP dataset during BLAH7
 
