@@ -4,6 +4,7 @@ A dataset for Named Entity Recognition for rice gene
 * Find the project page on PubAnnotation repository:
 http://pubannotation.org/projects/OryzaGP
 * Find the development project page http://pubannotation.org/projects/OryzaGP_2021
+* Dowload the OryzaGP datatset http://pubannotation.org/projects/OryzaGP_2021/annotations.tgz
 
 ## Updating OryzaGP dataset during BLAH7
 
