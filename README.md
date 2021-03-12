@@ -6,6 +6,10 @@ http://pubannotation.org/projects/OryzaGP
 * Find the development project page http://pubannotation.org/projects/OryzaGP_2021
 * Dowload the OryzaGP datatset http://pubannotation.org/projects/OryzaGP_2021/annotations.tgz
 
+## citation
+Please cite with the following reference: 
+Pierre Larmande, Huy Do, Yue Wang. OryzaGP: rice gene and protein dataset for named-entity recognition. Genomics Inform. 2019;17(2):e17. DOI: https://doi.org/10.5808/GI.2019.17.2.e17
+
 ## Updating OryzaGP dataset during BLAH7
 
 The aim of this projet is to :
